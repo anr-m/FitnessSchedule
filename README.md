@@ -1,2 +1,4 @@
 # FitnessSchedule
-Task for FitnessKit
+## Task for FitnessKit
+
+Stack: Swift, Decodable, Alamofire, Kingfisher, Realm
